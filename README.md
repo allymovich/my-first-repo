@@ -1,20 +1,19 @@
-# This is a large heading
-
-## This is a smaller heading
-
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-``
+#KYAGULANYI ALI
+## Geography
+i live in the city of kampala which is located in a country called uganda
+###Reading
+three of my favourites movies are
+-*automn in new york
+-*curious case of benjamin button
+-*pretty woman
+## sports
+arsenal
+uganda
+psg
+barcelona
+###restaurants
+bon apetit
+cafe javas
+kfc
+###contants
+allymovich@gmail.com
